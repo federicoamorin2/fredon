@@ -1,0 +1,7 @@
+{
+    "query": "who proposed the geocentric theory",
+    "index": "1234",
+    "kTopPassages": 10,
+    "reRankConfig": {"kTopPassages": 2,"minScore": -20 },
+    "minScore": 0,"adjacentPassages": 1
+}

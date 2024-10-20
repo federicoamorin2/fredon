@@ -1,0 +1,6 @@
+transformers
+torch
+sentencepiece
+protobuf
+tiktoken
+numpy==1.26.4
